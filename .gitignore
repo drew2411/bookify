@@ -1,3 +1,7 @@
 venv/
 .pyc
 .env
+.png
+.jpeg
+.tex
+pdf_images_output/
