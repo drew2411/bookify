@@ -5,3 +5,5 @@ venv/
 .jpeg
 .tex
 pdf_images_output/
+generated_latex/
+extracted/
