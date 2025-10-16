@@ -1,0 +1,5 @@
+1. Logging: https://www.geeksforgeeks.org/springboot/spring-boot-logging
+
+2. File Check: https://stackoverflow.com/questions/48570244/spring-boot-security-scans-on-file-upload
+
+3. Making it faster: https://www.reddit.com/r/node/comments/106qfbb/first_time_building_microservicebased_application
